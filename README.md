@@ -27,6 +27,11 @@ I came out of Uni with this idea that I could just get a graduate job as a softw
 
 ---
 
+## Step 1 - Blink LED ("Hello World")
+
+
+
+
 ## Phase 1 — Bare-metal STM32 (register level)
 
 The differentiator. No HAL — write directly to registers to prove I understand memory-mapped I/O.
