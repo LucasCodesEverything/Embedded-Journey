@@ -13,7 +13,8 @@ I came out of Uni with this idea that I could just get a graduate job as a softw
 - [ ] Jumper Wires
 
 **Guiding rule:** No tutorial purgatory.
-
+---
+## Step 1 - Blink LED ("Hello World")
 ---
 
 ## Phase 0 — Prerequisites *(in parallel, not as a gate)*
@@ -27,7 +28,7 @@ I came out of Uni with this idea that I could just get a graduate job as a softw
 
 ---
 
-## Step 1 - Blink LED ("Hello World")
+
 
 
 
