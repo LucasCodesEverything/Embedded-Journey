@@ -5,12 +5,12 @@ I came out of Uni with this idea that I could just get a graduate job as a softw
 **Background:** Software Engineering graduate (Cardiff Met), placement at Atlas Elektronik UK (defence systems). This log exists to demonstrate development in hands-on competence, not just completed courses.
 
 **Hardware:** So far, I have bought a few things with recommendations from a combination of Youtube/Claude:
-- [ ]STM32 Nucleo-64 (F446RE) 
-- [ ]Multimeter
-- [ ]Electronics Starter Kit
-- [ ]Breadboard
-- [ ]OLED display
-- [ ]Jumper Wires
+- [ ] STM32 Nucleo-64 (F446RE) 
+- [ ] Multimeter
+- [ ] Electronics Starter Kit
+- [ ] Breadboard
+- [ ] OLED display
+- [ ] Jumper Wires
 
 **Guiding rule:** No tutorial purgatory.
 
