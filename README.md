@@ -12,6 +12,8 @@ I came out of Uni with this idea that I could just get a graduate job as a softw
 - [ ] OLED display
 - [ ] Jumper Wires
 
+**Guidance** https://github.com/m3y54m/embedded-engineering-roadmap
+
 **Guiding rule:** No tutorial purgatory.
 ---
 ## Step 1 - Blink LED ("Hello World")
