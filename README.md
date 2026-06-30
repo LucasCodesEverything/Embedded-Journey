@@ -1,12 +1,18 @@
 # Embedded Systems — Learning Log
 
-A public build log documenting my self-taught path into embedded engineering, from bare-metal C on STM32 through to an RTOS-based capstone. Each phase ends with a concrete artifact (driver, write-up, or logic-analyser capture) rather than a tutorial checkbox.
+I came out of Uni with this idea that I could just get a graduate job as a software engineer and it would be smooth sailing from there. However, coding changed dramatically during my three years at uni, which my course could not keep up with. With the recent creation and boom of AI coding assistants, the market has taken a large hit, and although I love software engineering, I have always missed the connection to hardware; that is what this project is my bridge into embedded engineering
 
-**Background:** Software Engineering graduate (Cardiff Met), placement at Atlas Elektronik UK (defence electronics). This log exists to demonstrate hands-on competence, not just completed courses.
+**Background:** Software Engineering graduate (Cardiff Met), placement at Atlas Elektronik UK (defence systems). This log exists to demonstrate development in hands-on competence, not just completed courses.
 
-**Hardware:** STM32 Nucleo-64 (F446RE) · 8-channel logic analyser · breadboard prototyping.
+**Hardware:** So far, I have bought a few things with recommendations from a combination of Youtube/Claude:
+STM32 Nucleo-64 (F446RE) 
+Multimeter
+Electronics Starter Kit
+Breadboard
+OLED display
+Jumper Wires
 
-**Guiding rule:** one concept → build the thing → write up what broke. No tutorial purgatory.
+**Guiding rule:** No tutorial purgatory.
 
 ---
 
